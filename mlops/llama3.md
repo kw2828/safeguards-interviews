@@ -1,4 +1,4 @@
-# Llama3 Inference Project for ML Engineers
+# Llama3 Inference for ML Engineers
 
 For this project, I'd like you to research and implement the following:
 
