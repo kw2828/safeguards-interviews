@@ -8,7 +8,7 @@ Be sure to document your process and experimental results. Cite any papers you'v
 - WikiQA - Incorrect Answers (n=50)
 - WikiQA - Correct Answers (n=50)
 
-**Step 2:** Given the `prompt`, `llm_response`, and `context` create a RAG hallucination detector without using LLMs/GPT-4 as an evaluator. As a benchmark, `GPT-4` as evaluator LLM with few shot prompting performance is around `70.0%` on WikiQA. You may validate this yourself too.
+**Step 2:** Given the `prompt`, `llm_response`, and `context` create a RAG hallucination detector without using proprietary-models (e.g. anthropic, openai) as an evaluator. As a benchmark, `GPT-4` as evaluator LLM with few shot prompting performance is around `70.0%` on WikiQA. You may validate this yourself too.
 
 **Step 3:** Evaluate against WikiQA and document your learnings
 
